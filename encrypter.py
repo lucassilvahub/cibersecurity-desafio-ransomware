@@ -7,7 +7,7 @@ file = open(file_name, "rb")
 file_data = file.read()
 file.close()
 
-## remover o arquivo
+## remover o arquivo aberto
 os.remove(file_name)
 
 ## chave de criptografia
