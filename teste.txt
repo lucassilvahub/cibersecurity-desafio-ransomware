@@ -1,1 +1,1 @@
-alo brasil
+string de teste validacao
